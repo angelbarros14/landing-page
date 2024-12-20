@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+
+}
+
+body {
+    margin: 0;
+    padding:0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+.content1 {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.placeholder {
+    padding: 40px;
+    background-color: gray;
+}
